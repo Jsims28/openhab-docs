@@ -140,7 +140,7 @@ Along the way, you may have some questions; the openHAB community is here to hel
 ## The openHAB Community
 
 openHAB is not just software - it is also a **community** of users, contributors and maintainers, working together on an open-source, interoperable approach to home automation. 
-The center of this community is the [openHAB community forum](https://community.openhab.org). 
+The centre of this community is the [openHAB community forum](https://community.openhab.org). 
 It is an active and responsive community of developers and maintainers who generally respond quite quickly to forum questions. 
 
 Remember that openHAB is an open-source development, driven exclusively by volunteers. 
